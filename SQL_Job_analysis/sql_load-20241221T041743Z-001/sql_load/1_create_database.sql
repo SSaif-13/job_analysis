@@ -1,1 +1,1 @@
-CREATE DATABASE sql_course;
+CREATE DATABASE sql_job_analysis;
